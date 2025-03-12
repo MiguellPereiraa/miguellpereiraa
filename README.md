@@ -1,5 +1,5 @@
 # 👾 About Me:
- **Miguel Pereira** <br>Técnico de Informática<br><br>Atualmente, estou trabalhando manutenção e suporte técnico.<br>Tenho um grande interesse por desenvolvimento de programas e suporte técnico. <br>No momento, estou focado em aprofundar meus conhecimentos em desenvolvimento de programas.<br><br>
+ **Miguel Pereira** <br>Técnico de Informática<br><br>Atualmente, estou trabalhando com manutenção e suporte técnico.<br>Tenho um grande interesse por desenvolvimento de programas e suporte técnico. <br>No momento, estou focado em aprofundar meus conhecimentos em desenvolvimento de programas.<br><br>
 
 
 ## 🌐 Socials:
